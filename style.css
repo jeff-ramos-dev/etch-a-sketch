@@ -21,6 +21,7 @@ body {
 button {
     height: fit-content;
     width: 6rem;
+    color: black;
     margin-top: 1rem;
     padding: 0.2rem 0.4rem;
     font-size: large;
